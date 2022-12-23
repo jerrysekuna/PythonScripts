@@ -1,2 +1,2 @@
 # PythonScripts
-#Calculator python script that will add, subtract, multiply and divide numbers with recursion
+#This scripts contain several mini projects written in python codes 
